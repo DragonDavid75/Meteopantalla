@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../esp32-weather-epd/platformio"
+		},
+		{
+			"name": "Meteopantalla",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
